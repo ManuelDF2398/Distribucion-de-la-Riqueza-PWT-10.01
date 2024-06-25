@@ -77,7 +77,8 @@ He clasificado los países según su crecimiento relativo al PIB per cápita de 
 He analizado la evolución del PIB per cápita en los países que experimentaron un despegue económico, evaluando las hipótesis de Lucas (2000) sobre el crecimiento económico.
 
 ## Paper utilizado en referencia a la investigación
-El paper se encuentra en el repositorio libre [FEDERAL RESERVE BANK OF MINNEAPOLIS][homepage], disponible en https://www.minneapolisfed.org/research/qr/qr1721.pdf
+El paper se encuentra en el repositorio libre [FEDERAL RESERVE BANK OF MINNEAPOLIS][homepage], disponible en https://www.minneapolisfed.org/research/qr/qr1721.pdf.
+
 [homepage]: https://www.minneapolisfed.org/
 
 ## Contribuciones

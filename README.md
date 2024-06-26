@@ -20,8 +20,8 @@ El proyecto se divide en las siguientes secciones:
 
 ## Contenido del Repositorio
 
-- `data/`: Contiene los datos utilizados, incluyendo la versión 10.0 del Penn World Table.
-- `scripts/`: Scripts en Stata utilizados para el análisis de datos.
+- `data/`: Contiene los datos utilizados, incluyendo la versión 10.01 del Penn World Table.
+- `scripts/`: Scripts en Stata utilizados para el análisis de datos (conocidos comúnmente como do file).
 - `figures/`: Gráficos y tablas generados.
 - `results/`: Resultados finales del análisis.
 - `report/`: Informe final en formato PDF.

@@ -8,7 +8,7 @@
 
 ## Descripción
 
-Este repositorio contiene un análisis detallado de la evolución de la distribución mundial de la riqueza, centrado en el PIB per cápita entre países desde 1960 hasta 2010. El análisis se basa en datos de la Penn World Table (versión 10.0) y utilizo Stata para el procesamiento y visualización de datos.
+Este repositorio contiene un análisis detallado de la evolución de la distribución mundial de la riqueza, centrado en el PIB per cápita entre países desde 1960 hasta 2010. El análisis se basa en datos de la Penn World Table (versión 10.01) y se utiliza Stata 17 MP para el procesamiento y visualización de datos.
 
 ## Estructura del Proyecto
 

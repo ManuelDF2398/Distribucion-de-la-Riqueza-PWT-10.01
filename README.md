@@ -1,3 +1,7 @@
+## Autores:
+### Díaz Flores Manuel Antonio
+### Mauro Orlando Gutierrez Matínez
+
 # Análisis de la Distribución Mundial de la Riqueza
 
 ## Descripción
